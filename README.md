@@ -1,1 +1,8 @@
-# CS-340
+***How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?***
+- It is important to understand what and how CRUD functions achieve its goal. CRUD are common functions used to manage database, therefore it is useful to call it as a function. CRUD would also be useful to any database such as SQL database. 
+
+***How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?***
+- First it is important to understand requirements, what exactly needs to be achieved. From there, I planned on how it can be achieved, drafting queries. Finally, I implement and test multiple times until I confirmed the desired outcome. Official documentation is the best tool when it comes to understanding MongoDB, as the language is different from SQL.
+
+***What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?***
+- Computer Scientists builds a tool to achieve a goal for users. The program must return the same outcome every time in a satisfactory way. Computer Scientists creates a program to facilitate users in their work, therefore users needs must come first. Agile methodology is a way for computer scientists and users to collaborate efficiently.
